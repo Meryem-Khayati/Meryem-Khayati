@@ -1,40 +1,38 @@
-# Maryem Khayati
 
-Hello World! 🌍  
-Welcome to my profile. I'm a passionate **Full-Stack Developer** and **AI Enthusiast**, always exploring new technologies and looking for exciting challenges. 🚀
-
----
-
-## About Me
-
-- [ ] I’m currently a **Computer Engineering and AI student**.
-- [x] Passionate about building innovative web solutions.
-- [x] Focused on creating clean, efficient, and scalable applications.
-- [ ] Based in [Your Location].
+<h1 align="center">Hi 👋, I'm Meryem Khayati</h1>
+<h3 align="center">A passionate FullStack Developer from Morocco</h3>
 
 ---
 
-## Tech Stack
-
-- **Front-End**: [React] [JavaScript] [Tailwind CSS]
-- **Back-End**: [Spring Boot]
-- **Database**: [MySQL]
+<h3 align="left">About me:</h3>
+🎓 I’m a Computer Engineering and AI student at ENSA Safi.<br>
+💖 Passionate about web development and always learning new things!<br>
+🌍 Based in Morocco.
 
 ---
 
-## Projects
 
-- [x] **Project 1**: A web application built with **React** and **Spring Boot** to manage student records.
-- [ ] **Project 2**: An AI-based solution for image classification using **TensorFlow**.
-- [ ] **Project 3**: A full-stack e-commerce site built with **React** and **Node.js**.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+---
+
+
+<h3 align="left">Projects:</h3>
+
+- [x] **Web Application for Institution Management**: A web application built with **React** and **Spring Boot** for managing educational institution data.
+- [x] **Web Application for Managing Electronic Correspondence**: A web application built with **Spring** and **React** to manage electronic correspondence.
+- [x] **Website for Managing Student Document Requests**: A website built with **WordPress** for managing student document requests with the administration.
+
 
 ---
 
 ## How to Reach Me
 
-- 📧 Email: [tonemail@example.com](mailto:tonemail@example.com)
-- 🔗 LinkedIn: [Ton Profil LinkedIn](https://www.linkedin.com/in/tonprofil)
-- 🌐 Portfolio: [tonportfolio.com](https://tonportfolio.com)
+- 📧 Email: [meryemkhayati91@gmail.com](mailto:meryemkhayati91@gmail.com)
+- 🔗 LinkedIn: [Meryem Khayati](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJy3%2FEk38TwqJMzBYiYqaog%3D%3D)
+- 🌐 Portfolio: [meryemkhayati.com](https://tonportfolio.com)
 
 ---
 
