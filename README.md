@@ -24,7 +24,7 @@
 - [x] **Web Application for Institution Management**: A web application built with **React** and **Spring Boot** for managing educational institution data.
 - [x] **Web Application for Managing Electronic Correspondence**: A web application built with **Spring Boot** and **React** to manage electronic correspondence.
 - [x] **Website for Managing Student Document Requests**: A website built with **WordPress** for managing student document requests with the administration.
-- [x] **Mini JEE Application for Managing User and City Data**: A web application built with **JEE** for simplified management of user and city data, allowing administrators to add, edit, and delete records efficiently.
+- [x] **UserCityManager**: A web application built with **JEE** for simplified management of user and city data, allowing administrators to add, edit, and delete records efficiently.
 
 
 ---
