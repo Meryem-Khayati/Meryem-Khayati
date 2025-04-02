@@ -33,7 +33,7 @@
 
 - 📧 Email: [meryemkhayati91@gmail.com](mailto:meryemkhayati91@gmail.com)
 - 🔗 LinkedIn: [Meryem Khayati](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJy3%2FEk38TwqJMzBYiYqaog%3D%3D)
-- 🌐 Portfolio: [meryemkhayati.com](https://tonportfolio.com)
+- 🌐 Portfolio: [meryemkhayati.com](https://meryem-khayati.github.io/my-port-folio/)
 
 ---
 
