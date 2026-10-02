@@ -57,9 +57,6 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -69,8 +66,8 @@
 
 <h3 align="left">Projects:</h3>
 
-* [x] **Software License Management Application**
-  A web application based on a **microservices architecture** for tracking, assigning, and managing software licenses. Built with **Spring Boot, Angular, Spring Security, JWT, OpenFeign, and MySQL**.
+* [x] **MoroMatch – AI Conversational Agent**
+  Development of an **AI conversational agent** for MoroMatch, a platform connecting recruiters and candidates. The agent supports **project and talent search, recommendations, comparisons, detailed information retrieval, and sponsorship tracking**.
 
 * [x] **TswirTi – Image Processing Application**
   A web application for image processing and enhancement, offering filters, noise reduction, convolution, edge detection, adjustments, and histogram analysis. Built with **React, FastAPI, Supabase, and REST APIs**.
@@ -81,8 +78,8 @@
 * [x] **RH Recruitment Platform**
   A web application connecting **recruiters and candidates**, allowing recruiters to publish job offers and manage applications, while candidates can browse offers and apply to available positions.
 
-* [x] **MoroMatch – AI Conversational Agent**
-  Development of an **AI conversational agent** for MoroMatch, a platform connecting recruiters and candidates. The agent supports **project and talent search, recommendations, comparisons, detailed information retrieval, and sponsorship tracking**.
+* [x] **Software License Management Application**
+  A web application based on a **microservices architecture** for tracking, assigning, and managing software licenses. Built with **Spring Boot, Angular, Spring Security, JWT, OpenFeign, and MySQL**.
 
 * [x] **Web Application for Institution Management**
   A web application built with **React and Spring Boot** for managing educational institution data.
