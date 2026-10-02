@@ -69,8 +69,8 @@
 * [x] **MoroMatch – AI Conversational Agent**
   Development of an **AI conversational agent** for MoroMatch, a platform connecting recruiters and candidates. The agent supports **project and talent search, recommendations, comparisons, detailed information retrieval, and sponsorship tracking**.
 
-* [x] **🛡️ Smart-IDS-AI – Intelligent Intrusion Detection System**
-  An **AI-powered Intrusion Detection System** that combines **Machine Learning (Random Forest)** and **Deep Reinforcement Learning (DQN)** to detect and respond to network attacks in real time. The system classifies 14 types of attacks (DDoS, PortScan, Bot, Web Attacks, etc.) and lets an RL agent decide whether to **OBSERVE**, **ALERT**, or **BLOCK** malicious traffic with a rule-based IP management layer for anti-false-positives.
+* [x] **Smart-IDS-AI – Intelligent Intrusion Detection System**
+  An AI-powered IDS combining **Machine Learning (Random Forest)** and **Deep Reinforcement Learning (DQN)** to detect network attacks and support security decisions such as **OBSERVE, ALERT, and BLOCK**. The system uses **FastAPI** for the backend and **React.js** for the dashboard.
 
 * [x] **TswirTi – Image Processing Application**
   A web application for image processing and enhancement, offering filters, noise reduction, convolution, edge detection, adjustments, and histogram analysis. Built with **React, FastAPI, Supabase, and REST APIs**.
