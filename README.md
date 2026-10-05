@@ -119,18 +119,18 @@ _Click the button to download my full CV (PDF)_
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **MoroMatch – AI Conversational Agent** | AI agent for a platform connecting recruiters and candidates: project & talent search, recommendations, comparisons, detailed info retrieval and sponsorship tracking. | AI, Conversational Agent |
-| **Smart-IDS-AI – Intrusion Detection System** | Combines Machine Learning (Random Forest) and Deep Reinforcement Learning (DQN) to detect network attacks and support decisions: OBSERVE, ALERT, BLOCK. | Python, FastAPI, React.js |
-| **TswirTi – Image Processing App** | Image processing and enhancement: filters, noise reduction, convolution, edge detection, adjustments and histogram analysis. | React, FastAPI, Supabase, REST |
-| **HANOUTY.AI – Smart Checkout** | Computer-vision checkout that recognizes Moroccan grocery products through a webcam and automates product identification. | React, Python, AI, Supabase |
-| **RH Recruitment Platform** | Connects recruiters and candidates: recruiters publish offers and manage applications, candidates browse and apply. | Java, Spring Boot, Angular |
-| **Software License Management** | Microservices-based app for tracking, assigning and managing software licenses. | Java, Spring Boot, Angular, Spring Security, JWT, OpenFeign, MySQL |
-| **Institution Management** | Web application for managing educational institution data. | React, Java, Spring Boot |
-| **Electronic Correspondence Management** | Web application for managing electronic correspondence. | Java, Spring Boot, React |
-| **Student Document Request Website** | Website for managing student document requests and communication with administration. | WordPress |
-| **UserCityManager** | Simplified management of users and cities: admins can add, edit and delete records. | Java, JEE |
+| Project | What it does |
+|:--------|:-------------|
+| **MoroMatch – AI Conversational Agent** | AI agent helping recruiters and candidates search, compare and get recommendations on projects and talents. |
+| **Smart-IDS-AI – Intrusion Detection System** | Intelligent system that detects network attacks and recommends security decisions. |
+| **TswirTi – Image Processing App** | Web application for processing and enhancing images. |
+| **HANOUTY.AI – Smart Checkout** | Smart checkout that recognizes Moroccan grocery products through a webcam. |
+| **RH Recruitment Platform** | Platform connecting recruiters and candidates. |
+| **Software License Management** | Application to track, assign and manage software licenses. |
+| **Institution Management** | Web application to manage educational institution data. |
+| **Electronic Correspondence Management** | Web application to manage electronic correspondence. |
+| **Student Document Request Website** | Website to manage student document requests. |
+| **UserCityManager** | Application to manage users and cities. |
 
 </div>
 
@@ -155,7 +155,7 @@ _Click the button to download my full CV (PDF)_
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryemkhayati91@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-khayati/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-khayati-0489b8271)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meryem-Khayati)
 
 <br/>
