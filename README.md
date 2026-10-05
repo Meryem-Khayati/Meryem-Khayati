@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Meryem+Khayati;Full-Stack+Developer;Computer+Engineering+%26+AI+Student;Building+Smart+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Meryem+Khayati;Full-Stack+Developer;5th-Year+Engineering+Student+%40+ENSA+Safi;Looking+for+a+PFE+Internship+%F0%9F%9A%80;Building+Smart+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -14,8 +14,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Meryem-Khayati&label=Profile%20Views&color=ff6b9d&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Meryem-Khayati?label=Followers&style=for-the-badge&color=ff6b9d&logo=github" alt="followers" />
-  <a href="https://meryem-khayati.github.io/my-port-folio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-ff6b9d?style=for-the-badge" alt="portfolio" />
+  <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/General_CV%20%287%29.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Download-CV-ff6b9d?style=for-the-badge" alt="download cv" />
   </a>
 </p>
 
@@ -33,10 +33,12 @@
 
 ```yaml
 name: Meryem Khayati
-role: Full-Stack Developer
-education: Computer Engineering & AI - ENSA Safi
-focus: Web Development, AI Integration
-location: Morocco 🇲🇦
+role: Engineering Student | Full-Stack Developer
+education: 5th year, Computer Engineering & AI - ENSA Safi
+focus: REST APIs, Microservices, AI Integration
+languages: Arabic (native), French (fluent), English (intermediate)
+status: Looking for a PFE internship 🚀
+location: El Kelaa des Sraghna, Morocco 🇲🇦
 ```
 
 </td>
@@ -55,6 +57,22 @@ location: Morocco 🇲🇦
 
 ---
 
+## 📄 My Resume
+
+<div align="center">
+
+<a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/General_CV%20%287%29.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📥_Download_My_CV-FF6B9D?style=for-the-badge&labelColor=0D1117" alt="Download CV" height="50" />
+</a>
+
+<br/><br/>
+
+_💡 Click the button to get my full CV (PDF)_
+
+</div>
+
+---
+
 ## 🚀 Skills & Technologies
 
 <div align="center">
@@ -70,6 +88,7 @@ location: Morocco 🇲🇦
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -83,6 +102,7 @@ location: Morocco 🇲🇦
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🛠️ Tools
@@ -123,7 +143,7 @@ location: Morocco 🇲🇦
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meryem-Khayati&show_icons=true&hide_border=true&bg_color=111827&title_color=5EEAD4&icon_color=14B8A6&text_color=E5E7EB&ring_color=14B8A6" alt="Statistiques GitHub"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meryem-Khayati&layout=compact&hide_border=true&bg_color=111827&title_color=5EEAD4&text_color=E5E7EB&exclude=PHP,Jupyter%20Notebook" alt="Langages les plus utilisés"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meryem-Khayati&layout=compact&hide_border=true&bg_color=111827&title_color=5EEAD4&text_color=E5E7EB&hide=php,jupyter%20notebook,css" alt="Langages les plus utilisés"/>
 </p>
 
 </div>
@@ -136,7 +156,6 @@ location: Morocco 🇲🇦
 
 [![Email](https://img.shields.io/badge/_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meryemkhayati91@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meryem-khayati/)
-[![Portfolio](https://img.shields.io/badge/_Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white)](https://meryem-khayati.github.io/my-port-folio/)
 [![GitHub](https://img.shields.io/badge/_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meryem-Khayati)
 
 <br/>
