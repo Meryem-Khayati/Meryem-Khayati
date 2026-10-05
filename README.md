@@ -120,7 +120,11 @@ location: Morocco 🇲🇦
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Meryem-Khayati&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFB86C&text_color=FFF" alt="GitHub Stats" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meryem-Khayati&show_icons=true&hide_border=true&bg_color=111827&title_color=5EEAD4&icon_color=14B8A6&text_color=E5E7EB&ring_color=14B8A6" alt="Statistiques GitHub"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meryem-Khayati&layout=compact&hide_border=true&bg_color=111827&title_color=5EEAD4&text_color=E5E7EB" alt="Langages les plus utilisés"/>
+</p>
 
 </div>
 
