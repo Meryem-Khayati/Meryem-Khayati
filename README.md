@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Meryem%20Khayati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Engineering%20Student&descSize=20&descAlignY=55" />
+<!-- Bannière -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Meryem%20Khayati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%C3%89l%C3%A8ve%20ing%C3%A9nieure%20en%20G%C3%A9nie%20Informatique%20et%20IA%20|%20D%C3%A9veloppeuse%20Full-Stack&descSize=20&descAlignY=55" />
 
 <br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full-Stack+Developer;5th-Year+Engineering+Student+%40+ENSA+Safi;Looking+for+a+PFE+Internship" alt="Typing SVG" />
+<!-- Animation de texte -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=D%C3%A9veloppeuse+Full-Stack" alt="Animation de texte" />
 
 <br/>
 
-<!-- Profile badges -->
+<!-- Badges du profil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meryem-Khayati&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Meryem-Khayati?label=Followers&style=for-the-badge&color=2563EB&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Meryem-Khayati&label=Vues%20du%20profil&color=2563EB&style=for-the-badge" alt="Vues du profil" />
+  <img src="https://img.shields.io/github/followers/Meryem-Khayati?label=Abonn%C3%A9s&style=for-the-badge&color=2563EB&logo=github" alt="Abonnés" />
   <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/General_CV%20%287%29.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-0F172A?style=for-the-badge" alt="download cv" />
+    <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-CV-0F172A?style=for-the-badge" alt="Télécharger le CV" />
   </a>
 </p>
 
@@ -23,33 +23,32 @@
 
 ---
 
-## About Me
+## À propos
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### Profile
+### Profil
 
 ```yaml
-name: Meryem Khayati
-role: Engineering Student | Full-Stack Developer
-education: 5th year, Computer Engineering & AI - ENSA Safi
-focus: REST APIs, Microservices, AI Integration
-languages: Arabic (native), French (fluent), English (intermediate)
-status: Looking for a PFE internship
-location: El Kelaa des Sraghna, Morocco
+nom: Meryem Khayati
+rôle: Développeuse Full-Stack
+formation: 5ème année - ENSA Safi
+centres_d_intérêt: API REST, Microservices, Intégration de l'IA
+langues: Arabe (langue maternelle), Français (courant), Anglais (intermédiaire)
+localisation: Maroc
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### Interests
+### Centres d'intérêt
 
-- Full-Stack Web Development
-- AI integration & intelligent systems
-- Software engineering
-- Continuous learning and building
+- Développement web Full-Stack
+- Intégration de l'IA et systèmes intelligents
+- Génie logiciel
+- Apprentissage continu et création de projets
 
 </td>
 </tr>
@@ -57,27 +56,27 @@ location: El Kelaa des Sraghna, Morocco
 
 ---
 
-## Resume
+## CV
 
 <div align="center">
 
 <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/General_CV%20%287%29.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download_My_CV-2563EB?style=for-the-badge&labelColor=0F172A" alt="Download CV" height="50" />
+  <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-2563EB?style=for-the-badge&labelColor=0F172A" alt="Télécharger mon CV" height="50" />
 </a>
 
 <br/><br/>
 
-_Click the button to download my full CV (PDF)_
+_Cliquez sur le bouton pour télécharger mon CV complet (PDF)_
 
 </div>
 
 ---
 
-## Skills & Technologies
+## Compétences & Technologies
 
 <div align="center">
 
-### Programming Languages
+### Langages de programmation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -98,14 +97,14 @@ _Click the button to download my full CV (PDF)_
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases
+### Bases de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools
+### Outils
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -115,35 +114,35 @@ _Click the button to download my full CV (PDF)_
 
 ---
 
-## Projects
+## Tous les projets
 
 <div align="center">
 
-| Project | What it does |
-|:--------|:-------------|
-| **MoroMatch – AI Conversational Agent** | AI agent helping recruiters and candidates search, compare and get recommendations on projects and talents. |
-| **Smart-IDS-AI – Intrusion Detection System** | Intelligent system that detects network attacks and recommends security decisions. |
-| **TswirTi – Image Processing App** | Web application for processing and enhancing images. |
-| **HANOUTY.AI – Smart Checkout** | Smart checkout that recognizes Moroccan grocery products through a webcam. |
-| **RH Recruitment Platform** | Platform connecting recruiters and candidates. |
-| **Software License Management** | Application to track, assign and manage software licenses. |
-| **Institution Management** | Web application to manage educational institution data. |
-| **Electronic Correspondence Management** | Web application to manage electronic correspondence. |
-| **Student Document Request Website** | Website to manage student document requests. |
-| **UserCityManager** | Application to manage users and cities. |
+| Projet | Description |
+|:-------|:------------|
+| **MoroMatch – Agent conversationnel IA** | Agent IA qui aide recruteurs et candidats à rechercher, comparer et obtenir des recommandations sur des projets et des talents. |
+| **Smart-IDS-AI – Système de détection d'intrusions** | Système intelligent qui détecte les attaques réseau et recommande des décisions de sécurité. |
+| **TswirTi – Application de traitement d'images** | Application web de traitement et d'amélioration d'images. |
+| **HANOUTY.AI – Caisse intelligente** | Caisse intelligente qui reconnaît les produits d'épicerie marocains via une webcam. |
+| **Plateforme RH de recrutement** | Plateforme qui met en relation recruteurs et candidats. |
+| **Gestion des licences logicielles** | Application de suivi, d'attribution et de gestion des licences logicielles. |
+| **Gestion d'établissement** | Application web de gestion des données d'un établissement d'enseignement. |
+| **Gestion des courriers électroniques** | Application web de gestion du courrier électronique. |
+| **Demandes de documents étudiants** | Site web de gestion et de suivi des demandes de documents. |
+| **UserCityManager** | Application de gestion des utilisateurs et des villes. |
 
 </div>
 
 ---
 
-## GitHub Statistics
+## Statistiques GitHub
 
 <div align="center">
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meryem-Khayati&show_icons=true&hide_border=true&bg_color=0F172A&title_color=FFFFFF&icon_color=2563EB&text_color=E2E8F0&ring_color=2563EB" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meryem-Khayati&show_icons=true&hide_border=true&bg_color=0F172A&title_color=FFFFFF&icon_color=2563EB&text_color=E2E8F0&ring_color=2563EB&locale=fr" alt="Statistiques GitHub"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meryem-Khayati&layout=compact&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=E2E8F0&hide=php,jupyter%20notebook,css" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meryem-Khayati&layout=compact&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=E2E8F0&hide=php,jupyter%20notebook,css&locale=fr" alt="Langages les plus utilisés"/>
 </p>
 
 </div>
@@ -160,7 +159,7 @@ _Click the button to download my full CV (PDF)_
 
 <br/>
 
-_Open to PFE internship opportunities in software development. Feel free to get in touch._
+_Ouverte aux opportunités en développement logiciel. N'hésitez pas à me contacter._
 
 </div>
 
