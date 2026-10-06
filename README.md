@@ -12,7 +12,6 @@
 
 <!-- Badges du profil -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meryem-Khayati&label=Vues%20du%20profil&color=2563EB&style=for-the-badge" alt="Vues du profil" />
   <img src="https://img.shields.io/github/followers/Meryem-Khayati?label=Abonn%C3%A9s&style=for-the-badge&color=2563EB&logo=github" alt="Abonnés" />
   <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/General_CV%20%287%29.pdf" target="_blank">
     <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-CV-0F172A?style=for-the-badge" alt="Télécharger le CV" />
@@ -33,9 +32,10 @@
 
 ```yaml
 nom: Meryem Khayati
-rôle: Développeuse Full-Stack
-formation: 5ème année - ENSA Safi
-centres_d_intérêt: API REST, Microservices, Intégration de l'IA
+rôle: Élève ingénieure | Développeuse Full-Stack
+formation: Cycle ingénieur en Génie Informatique & IA - ENSA Safi (5ème année)
+spécialité: Java/Spring Boot, Angular, React, API REST, Microservices
+domaine_ia: Agents IA, RAG, LLM, Machine Learning
 langues: Arabe (langue maternelle), Français (courant), Anglais (intermédiaire)
 localisation: Maroc
 ```
@@ -46,6 +46,7 @@ localisation: Maroc
 ### Centres d'intérêt
 
 - Développement web Full-Stack
+- Conception d'API REST et d'architectures microservices
 - Intégration de l'IA et systèmes intelligents
 - Génie logiciel
 - Apprentissage continu et création de projets
@@ -78,6 +79,7 @@ _Cliquez sur le bouton pour télécharger mon CV complet (PDF)_
 
 ### Langages de programmation
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
