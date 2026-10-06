@@ -13,7 +13,7 @@
 <!-- Badges du profil -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/Meryem-Khayati?label=Abonn%C3%A9s&style=for-the-badge&color=2563EB&logo=github" alt="Abonnés" />
-  <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/CV_MeryemKHAYATI.pdf%20%287%29.pdf" target="_blank">
+  <a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/CV_MeryemKHAYATI.pdf" target="_blank">
     <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-CV-0F172A?style=for-the-badge" alt="Télécharger le CV" />
   </a>
 </p>
@@ -61,7 +61,7 @@ localisation: Maroc
 
 <div align="center">
 
-<a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/CV_MeryemKHAYATI.pdf%20%287%29.pdf" target="_blank">
+<a href="https://github.com/Meryem-Khayati/Meryem-Khayati/raw/main/CV_MeryemKHAYATI.pdf" target="_blank">
   <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger_mon_CV-2563EB?style=for-the-badge&labelColor=0F172A" alt="Télécharger mon CV" height="50" />
 </a>
 
