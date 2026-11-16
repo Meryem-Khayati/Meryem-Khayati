@@ -3,7 +3,7 @@
 <!-- ===== HERO ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=220&section=header&text=Meryem%20Khayati&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=D%C3%A9veloppeuse%20Full-Stack%20%C2%B7%20%C3%89l%C3%A8ve%20ing%C3%A9nieure%20en%20G%C3%A9nie%20Informatique%20et%20IA&descSize=18&descAlignY=58" alt="Meryem Khayati" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=Applications+web+Full-Stack;Java+%2F+Spring+Boot+%C2%B7+Angular+%C2%B7+React;API+REST+et+microservices;Agents+IA+et+RAG" alt="Animation de texte" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=50&lines=D%C3%A9veloppeuse+Full-Stack;Java+%2F+Spring+Boot+%C2%B7+React+%C2%B7+Angular" alt="Animation de texte" />
 
 <br/>
 
